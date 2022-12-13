@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
 import { Link } from "react-scroll";
+import Head from "../assets/head-pic2.jpg";
 
 const NavBar = () => {
   const [nav, setNav] = useState(false);
@@ -30,9 +31,7 @@ const NavBar = () => {
 
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
-      <div>
-        <h1 className="text-5xl font-signature ml-2">Yash</h1>
-      </div>
+     
 
       <ul className="hidden md:flex">
         {links.map(({ id, link }) => (

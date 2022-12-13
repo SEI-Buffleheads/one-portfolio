@@ -1,7 +1,7 @@
 import React from "react";
-import arrayDestruct from "../assets/portfolio/arrayDestruct.jpg";
-import installNode from "../assets/portfolio/installNode.jpg";
-import navbar from "../assets/portfolio/navbar.jpg";
+import covid from "../assets/portfolio/covid-19.jpeg";
+import pet from "../assets/portfolio/pet-lyfe.png";
+import shill from "../assets/portfolio/shill.png";
 import reactParallax from "../assets/portfolio/reactParallax.jpg";
 import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
 import reactWeather from "../assets/portfolio/reactWeather.jpg";
@@ -10,28 +10,17 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: arrayDestruct,
+      src: covid,
     },
     {
       id: 2,
-      src: reactParallax,
+      src: pet,
     },
     {
       id: 3,
-      src: navbar,
+      src: shill,
     },
-    {
-      id: 4,
-      src: reactSmooth,
-    },
-    {
-      id: 5,
-      src: installNode,
-    },
-    {
-      id: 6,
-      src: reactWeather,
-    },
+   
   ];
 
   return (

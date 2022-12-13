@@ -13,24 +13,14 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        <p className="text-2xl mb-10 ">
+        Originally from Jamaica, I arrived here at sixteen to live with my father. My dad, being a first generation immigrant himself served in the military so that he would have the opportunity to apply for my citizenship. Growing up as a military brat, I traveled across the country to many installations and fell in love with the military lifestyle. After high school, I decided to join the army where I specialized in combat medicine. In the army, I had the pleasure of serving in the infantry and being a grunt my entire career. After four years, I decided to switch from active duty to the reserve component after one tour of Afghanistan. I had the pleasure of continuing to serve my country and my community.
         </p>
 
         <br />
 
-        <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        <p className="text-2xl ">
+        I started working in EMS in Atlanta while pursuing my Bachelor of Science in Computer Science. I decided in my last year that I wanted to gain real world experience while rounding out my coding skills. So I attended the General Assembly Software Engineering Immersion program. This was a life-changing experience for me. I had the opportunity to work with other developers to create projects that would solve issues. My journey is far from over. I hope to continue working with companies and developers who are passionate about making an impact.
         </p>
       </div>
     </div>
